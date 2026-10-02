@@ -1,0 +1,3 @@
+# JUST INSTALL THIS LIB IN YOUR COMPILER
+python-chess==1.999
+streamlit>=1.36,<2
